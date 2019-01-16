@@ -1,0 +1,19 @@
+body{
+    color:aqua;
+    background-color: grey;
+    font-family: fantasy;
+}
+
+h1{
+    font-family: fantasy;
+    border: 10px;
+    border-style: groove;
+    border-color: rgb(198, 161, 209);
+    padding:10px;
+
+}
+
+.holder-type {
+    color: rgb(53, 10, 66);
+    margin-top: 10px;
+}
